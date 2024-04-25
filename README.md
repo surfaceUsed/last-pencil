@@ -1,7 +1,7 @@
 # last-pencil
 Last pencil game application.
 
-Hyperskill project (Introduction to Java). Stage 5/5.
+Hyperskill project "Last pencil" (Introduction to Java). Stage 5/5.
 
 Command line application for a game "Last pencil", where the player
 that picks the last remaining pencil looses (can only pick max 3 pencils
